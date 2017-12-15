@@ -26,8 +26,8 @@
   },
   "dependencies": {
     "css-select": "https://github.com/cmarrero01/css-select.git",
-    "dom-serializer": "~0.1.0",
-    "entities": "~1.1.1",
+    "dom-serializer": "https://github.com/cmarrero01/dom-serialize.git",
+    "entities": "https://github.com/cmarrero01/entities.git",
     "htmlparser2": "^3.9.1",
     "lodash": "^4.15.0"
   },
