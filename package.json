@@ -28,7 +28,7 @@
     "css-select": "https://github.com/cmarrero01/css-select.git",
     "dom-serializer": "https://github.com/cmarrero01/dom-serialize.git",
     "entities": "https://github.com/cmarrero01/entities.git",
-    "htmlparser2": "^3.9.1",
+    "htmlparser2": "git+https://github.com/cmarrero01/htmlparser2.git",
     "lodash": "^4.15.0"
   },
   "devDependencies": {
@@ -38,7 +38,7 @@
     "istanbul": "^0.4.3",
     "jsdom": "^9.2.1",
     "jquery": "^3.0.0",
-    "jshint": "^2.9.2",
+    "jshint": "git+https://github.com/cmarrero01/jshint.git",
     "mocha": "^3.1.2",
     "xyz": "~1.1.0"
   },
