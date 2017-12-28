@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "css-select": "https://github.com/cmarrero01/css-select.git",
-    "dom-serializer": "https://github.com/cmarrero01/dom-serialize.git",
+    "dom-serializer": "git+https://github.com/cmarrero01/dom-serializer.git",
     "entities": "https://github.com/cmarrero01/entities.git",
     "htmlparser2": "git+https://github.com/cmarrero01/htmlparser2.git",
     "lodash": "^4.15.0"
